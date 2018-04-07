@@ -1,4 +1,4 @@
-###Learning Genie
+### Learning Genie
 
 Evan Holt and Linh Bui
 
