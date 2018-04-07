@@ -1,0 +1,45 @@
+#Is it in north america?
+#Is the capital washington, d.c.?
+USA
+#Is it a real country?
+Canada
+Oceania
+#Is it an island nation?
+#Is it in asia?
+#Do the people there speak japanese?
+Japan
+Philippines
+#Is the capital reykjavik?
+Iceland
+#Is the capital london?
+Great britain
+Antarctica
+#Is it in asia?
+#Is it south of china?
+#Is the capital hanoi?
+Vietnam
+India
+#Is the capital ulaanbaatar?
+Mongolia
+#Is it also in europe?
+Russia
+China
+#Do the people there speak german?
+#Is the capital berlin?
+Germany
+Liechtenstein
+#Is it in africa?
+#Does its flag have a star on it?
+Burkina faso
+Chad
+#Is it in south america?
+#Do the people there speak portuguese?
+Brazil
+Peru
+#Are there kangaroos there?
+Australia
+#Does the pope live there?
+The holy see
+#Is it a real country?
+Ukraine
+Mordor
