@@ -45,6 +45,8 @@ public class QuestionNode implements DecisionNode {
     }
     
     public void write(FileWriter out) throws IOException {
-        
+        out.write("#" + this.question + '\n');
+        this.yesNode.write(out);
+        this.noNode.write(out);
     }
 }

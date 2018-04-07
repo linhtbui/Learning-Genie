@@ -45,6 +45,6 @@ public class GuessNode implements DecisionNode {
     }
     
     public void write(FileWriter out) throws IOException {
-        
+        out.write(this.guessObj + '\n');
     }
 }
